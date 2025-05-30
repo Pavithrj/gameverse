@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vi
+// https://v
 export default defineConfig({
     plugins: [react()],
     base: "/gameverse"
